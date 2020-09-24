@@ -9,7 +9,7 @@ from threading import Thread
 from requests import get
 init()
 
-client = Client("spad_sec", api_id=1330873, api_hash="f854515b6daca37d58563fbc2132ed81")
+client = Client("spad_sec", api_id=1867281, api_hash="bac3dd5c231f1d69d8679174de34fe45")
 client.start()
 
 is_steal = False
